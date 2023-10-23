@@ -4,8 +4,8 @@
   "description": "Brackets",
   "main": "test.js",
   "engines": {
-    "node": "16",
-    "npm": "8"
+    "node": ">=16",
+    "npm": ">=8"
   },
   "scripts": {
     "test": "mocha test.js"
